@@ -1,3 +1,3 @@
 # Facecognition API
 
-This project contains the back-end code for the Facecognition application.
+This project contains the back-end server code for the Facecognition application.
