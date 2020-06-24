@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 // Set your path to a credentials file
-const credentials = JSON.parse(fs.readFileSync('../../credentials'));
+const credentials = JSON.parse(fs.readFileSync('../credentials'));
 
 const CLIENT = credentials.client;
 const HOST = credentials.host;
