@@ -12,9 +12,9 @@ The project was made with:
 
 ## Run the project locally
 
-To initiate and run the development server locally on your machine, you'll need to download, install and configure an user and password for Postgres. You can use the database dump file which was provided in this repository in order to recreate the database schema.
+To get the back-end server properly working for the project, you'll need to download, install and configure an user and password for Postgres. You can use the database dumped file named **dbschema.sql** which was provided in this repository in order to recreate the database schema.
 
-Once the step above is done, fill the blanks on the credentials file with your user and password for the database, as well the database name. In the same file you'll see an API key, this is a free tier one so I left It for you for more convenience.
+Once the step above is done, fill the blanks on the **credentials** file with your user and password for the database, as well the database name. In the same file you'll see an API key, this is a free tier one so I left It for you for more convenience.
 
 After this, run the command below to install all dependencies
  ```
