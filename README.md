@@ -1,10 +1,10 @@
 # Facecognition API
 
-This project contains the back-end server code for the Facecognition application, which can be found here in [facecognition](https://github.com/mdibian/facecognition). The project is pretty simple and was intended only to put some web development technologies into practice.
+This project contains the back-end server code for the [Facecognition](https://facecognition.herokuapp.com/) application, whose files can be found here in [facecognition](https://github.com/mdibian/facecognition) repository. The project is pretty simple and was intended only to put some web development technologies into practice.
 
 ## Technologies
 
-The project was made with:
+The project back-end was made with:
 
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](https://expressjs.com/)
